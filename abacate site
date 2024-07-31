@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>AbacateReal</title>
+
+    <link rel="stylesheet" href="index.css">
+
+</head>
+
+<body>
+
+    <div class="container">
+
+        <nav>
+
+            <ul>
+
+                <li>
+
+                    <a href="index.html">Sobre mim</a>
+
+                </li>
+
+                <li>
+
+                    <a href="project.html">Projetos</a>
+
+                </li>
+
+                <li>
+
+                    <a href="contact.html">Contatos</a>
+
+                </li>
+
+            </ul>
+
+            </ul>
+
+        </nav>
+
+        
+
+        <header>
+
+            <div class="center">
+
+                <img src="./img/channels4_profile (2).jpg"></img>
+
+            </div>
+
+            <h1>AbacateReal</h1>
+
+            <h2>Youtuber e Streamer </h2>
+
+        </header>
+
+        <main>
+
+            <section>
+
+                <h3>Sobre mim</h3>
+
+                <p>
+
+                    Bom eu me chamo abacate,e eu chamo abacate pelo menos nas redes sociais...
+
+eu gravo videos de Minecraft, e lives de Minecraft também, meu conteúdo principal
+
+dentro do Minecraft, é pvp e pretendo fazer survival também.
+
+                </p>
+
+            </section>
+
+            <section>
+
+                <h3>Formação</h3>
+
+                <p>
+
+                    Youtuber,Streamer,tumbmaker e editor de vídeo
+
+                </p>
+
+            </section>
+
+            <section>
+
+                <h3>Sonhos</h3>
+
+                <p>
+
+                    1 Milhão de inscritos
+
+viver de youtube
+
+viajar fora por causa do youtube
+
+conhecer certas pessoas
+
+                </p>
+
+            </section>
+
+        </main>
+
+    
+
+        <footer>
+
+            <a href="https://www.youtube.com/channel/UCgmrAq1b6L1DQC0e5fdSnzw" target="_blank" rel="noopener noreferrer" >
+
+                <img src="./img/images (1).png"></img>
+
+                <p>Youtube</p>
+
+    
+
+            </a>
+
+            <a href="https://www.twitch.tv/abacatereal1" target="_blank" rel="noopener noreferrer" >
+
+                <img src="./img/download (9).png"></img>
+
+                <p>Twitch</p>
+
+    
+
+            </a>
+
+            
+
+        </footer>
+
+    
+
+    
+
+    </div>
+
+ </body>
+
+</html>
